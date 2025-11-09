@@ -1,4 +1,4 @@
-# Axiom Pro Pulse - Token Discovery UI Clone
+# Axiom Pro Pulse - Token Discovery
 
 A pixel-perfect clone of Axiom Pro's **Pulse** token discovery dashboard, built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit**, and **React Query**.
 
@@ -208,4 +208,4 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Built with ❤️ using v0.app**
+
